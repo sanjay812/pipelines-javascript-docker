@@ -29,3 +29,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+[![Build Status](https://dev.azure.com/sanjaychinnikarthick/Sanjay/_apis/build/status/sanjay812.pipelines-javascript-docker?branchName=main)](https://dev.azure.com/sanjaychinnikarthick/Sanjay/_build/latest?definitionId=8&branchName=main)
